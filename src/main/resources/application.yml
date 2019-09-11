@@ -1,0 +1,4 @@
+logging:
+  config: classpath:logback-conf.xml
+  level:
+    com.pinux.springbootlogback.controller: 'off'
